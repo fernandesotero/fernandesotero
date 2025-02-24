@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Daniel Otero Fernandes</h1>
 <h3 align="center">A passionate Data Analyst from Brazil.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fernandesotero&label=Profile%20views&color=0e75b6&style=flat" alt="fernandesotero" /> </p>
 
 - 🔭 I’m currently working on [Learning path at FreeCodeCamp](https://www.freecodecamp.org/learn)
 
